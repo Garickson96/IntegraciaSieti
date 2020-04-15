@@ -1,0 +1,17 @@
+compute 
+key pairs 
+privatny si ho stiahnem
+launch stack 
+stack name kostelansky-jump
+creation timeout 5
+password 
+ssh key name
+
+Ja som 6
+prihlasovanie meno: integraciasieti6
+			  heslo: integracia
+
+Ip adresa mojho routra 158.193.153.79
+
+Nastavenie putty:
+ssh auth
